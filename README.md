@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masterchief117k
+- 👋 Hi, I’m @Kshitij Singh Rawat
 - 👀 I’m interested in fullstack web development 
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on java
