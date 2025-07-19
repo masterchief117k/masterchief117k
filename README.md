@@ -57,6 +57,7 @@ Prompt-driven image editing powered by InstructPix2Pix and Streamlit/Gradio.
 ## 📬 Contact  
 📧 Email: kshitijrawat117@gmail.com  
 📞 Phone: +91 9515417660  
-🔗 GitHub / LinkedIn *(Add links here)*
+🔗 GitHub: https://github.com/masterchief117k
+
 
 ---
