@@ -1,9 +1,62 @@
-- 👋 Hi, I’m @117
-- 👀 I’m interested in fullstack web development , software engneering 
-- 🌱 I’m currently familiar with  java script , PHP , unreal engein 5 , html , css , java , c++, pyhon , MongoDB , prompt engneering , basic of software engneering(like DSA, OS , DP etc.  )
-- 📫 How to reach me  my e-mail : kshitijrawat117@gmail.com  linkedin : https://www.linkedin.com/in/kshitij-rawat-8b69b7203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX%2FtjJV06Rte0DJn6w6b0Cg%3D%3D 
-										 
-<!---
-masterchief117k/masterchief117k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Kshitij Singh Rawat 👨‍💻  
+*Machine Learning Developer | GATE Qualifier | AI Enthusiast*
+
+---
+
+## 🌟 About Me  
+I'm a Computer Science undergraduate with a deep passion for machine learning, creative innovation, and national impact. I cleared GATE DA in my third year and have interned at Celebal Technologies, DRDL Hyderabad, and Outlier.ai, where I contributed to real-world AI, automation, and data-driven solutions.
+
+My mission: to build intelligent systems that empower communities and reshape tomorrow.
+
+---
+
+## 🧠 Technical Skills  
+**Languages**: Python, C++, Java, JavaScript, PHP  
+**ML Tools**: scikit-learn, Streamlit, Stable Diffusion, LDA, K-Means  
+**Cloud & Deployment**: Flask, Heroku, HuggingFace Spaces  
+**Platforms**: Jupyter, Colab, Spyder, MATLAB  
+**Domains**: NLP, Computer Vision, Web & Mobile Dev, Reinforcement Learning (exploring)
+
+---
+
+## 🏗️ Projects
+
+### 🔐 Polymorphic Malware Detector – IIITM Gwalior  
+Used ML to analyze over 1M PE files and detect malware not indexed in VirusTotal using feature-based classification.
+
+### 📊 Streamlit Clustering Dashboard  
+Dynamic clustering UI using K-Means and silhouette score optimization for customer segmentation.
+
+### 🖼️ Local Image Editor (Stable Diffusion)  
+Prompt-driven image editing powered by InstructPix2Pix and Streamlit/Gradio.
+
+---
+
+## 💼 Internships & Experience  
+- **DRDL Hyderabad** – Built a secure backup system for mission-critical servers.  
+- **Celebal Technologies** – Performed EDA, modeling, and ML-based predictions.  
+- **Outlier.ai** – Tested and profiled performance of deployed ML models.
+
+---
+
+## 🎓 Education & Certifications  
+- **B.Tech CSE** – Siksha 'O' Anusandhan University (83.9%)  
+- **GATE DA AIR** – 7,721 (Cleared in 3rd year)  
+- **Certifications** – ML (IBM), AI (Coursera), Deep Learning (Stanford)
+
+---
+
+## 🏆 Achievements & Personal Interests  
+- 🧩 Cubelelo Top 50 Speedcuber  
+- 👨‍💻 Top 0.2% Dev – Major League Hacking  
+- 🏃 Bangalore & Hyderabad Marathon finisher  
+- 🧠 Published researcher on urban heuristics (SOA Conference)
+
+---
+
+## 📬 Contact  
+📧 Email: kshitijrawat117@gmail.com  
+📞 Phone: +91 9515417660  
+🔗 GitHub / LinkedIn *(Add links here)*
+
+---
