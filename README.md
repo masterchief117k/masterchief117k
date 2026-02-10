@@ -40,7 +40,7 @@ Prompt-driven image editing powered by InstructPix2Pix and Streamlit/Gradio.
 ---
 
 ## 🎓 Education & Certifications  
-- **B.Tech CSE** – Siksha 'O' Anusandhan University (83.9%)  
+- **B.Tech CSE** – Siksha 'O' Anusandhan University   
 - **GATE DA AIR** –721 (Cleared in 3rd year)  
 - **Certifications** – ML (IBM), AI (Coursera), Deep Learning (Stanford)
 
